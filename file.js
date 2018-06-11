@@ -1,2 +1,2 @@
-var hello = 'Hello tout le monde !';
+var hello = 'Hello les amis !';
 document.querySelector('#root').textContent = hello;
